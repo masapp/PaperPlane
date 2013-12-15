@@ -2,8 +2,8 @@
 //  RootViewController.m
 //  sample
 //
-//  Created by 石川 雅之 on 11/12/17.
-//  Copyright 専修大学 2011. All rights reserved.
+//  Created by masapp on 11/12/17.
+//  Copyright (c) 2011 masapp. All rights reserved.
 //
 
 //

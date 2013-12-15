@@ -2,8 +2,8 @@
 //  GameScene.m
 //  sample
 //
-//  Created by 石川 雅之 on 12/01/01.
-//  Copyright 2012 専修大学. All rights reserved.
+//  Created by masapp on 11/12/17.
+//  Copyright (c) 2011 masapp. All rights reserved.
 //
 
 #import "GameScene.h"

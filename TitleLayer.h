@@ -2,8 +2,8 @@
 //  TitleLayer.h
 //  sample
 //
-//  Created by 石川 雅之 on 11/12/29.
-//  Copyright 2011 専修大学. All rights reserved.
+//  Created by masapp on 11/12/17.
+//  Copyright (c) 2011 masapp. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
